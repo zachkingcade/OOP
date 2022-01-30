@@ -1,0 +1,361 @@
+Zach Kingcade & Garrett Johnson
+OOP Program 04
+
+Set Number: 0
+Original Matrix A:
+0 0 1 0 0 1 1 
+0 0 0 0 0 0 1 
+1 1 0 0 1 1 1 
+0 1 1 1 1 0 0 
+Original Matrix B:
+1 1 0 1 
+1 1 1 1 
+1 1 0 1 
+1 0 1 1 
+1 0 0 1 
+1 0 0 0 
+Join of A and B:
+Error:ZeroOne Meet- matrixes not of the same size
+Meet of A and B:
+Error:ZeroOne Join- matrixes not of the same size
+Transpose of A
+0 0 1 0 
+0 0 1 1 
+1 0 0 1 
+0 0 0 1 
+0 0 1 1 
+1 0 1 0 
+1 1 1 0 
+Transpose of B:
+1 1 1 1 1 1 
+1 1 1 0 0 0 
+0 1 0 1 0 0 
+1 1 1 1 1 0 
+Matrix A is not symmetric
+Matrix B is not symmetric
+
+Set Number: 1
+Original Matrix A:
+89 84 64 70 
+56 21 23 29 
+5 71 58 0 
+89 18 97 35 
+39 18 28 16 
+8 87 39 78 
+Original Matrix B:
+81 55 59 31 42 68 
+44 32 52 8 54 60 
+82 78 42 87 49 0 
+39 90 70 36 25 62 
+6 5 78 14 44 17 
+45 25 72 4 9 66 
+24 53 50 77 14 5 
+89 96 83 31 35 32 
+Addition of A and B:
+Error:Matrix addition- matrixes not of the same size
+Multiplication of A and B:
+Error:Matrix Multiplication-Number of rows and columns do not match
+Transpose of A
+89 56 5 89 39 8 
+84 21 71 18 18 87 
+64 23 58 97 28 39 
+70 29 0 35 16 78 
+Transpose of B:
+81 44 82 39 6 45 24 89 
+55 32 78 90 5 25 53 96 
+59 52 42 70 78 72 50 83 
+31 8 87 36 14 4 77 31 
+42 54 49 25 44 9 14 35 
+68 60 0 62 17 66 5 32 
+Matrix A is not symmetric
+Matrix B is not symmetric
+
+Set Number: 2
+Original Matrix A:
+99 16 20 56 94 
+86 0 63 31 25 
+87 87 86 54 12 
+40 4 41 6 61 
+30 54 44 14 89 
+Original Matrix B:
+28 98 67 2 4 
+81 53 21 1 9 
+67 87 9 83 19 
+87 70 6 73 76 
+18 65 33 59 71 
+94 42 77 91 56 
+66 19 6 85 22 
+10 66 75 83 67 
+85 51 55 46 86 
+Addition of A and B:
+Error:Matrix addition- matrixes not of the same size
+Multiplication of A and B:
+Error:Matrix Multiplication-Number of rows and columns do not match
+Transpose of A
+99 86 87 40 30 
+16 0 87 4 54 
+20 63 86 41 44 
+56 31 54 6 14 
+94 25 12 61 89 
+Transpose of B:
+28 81 67 87 18 94 66 10 85 
+98 53 87 70 65 42 19 66 51 
+67 21 9 6 33 77 6 75 55 
+2 1 83 73 59 91 85 83 46 
+4 9 19 76 71 56 22 67 86 
+Matrix A is not symmetric
+Matrix B is not symmetric
+
+Set Number: 3
+Original Matrix A:
+55 76 18 
+66 0 64 
+8 77 55 
+Original Matrix B:
+16 96 75 22 
+81 49 33 48 
+76 68 15 61 
+71 22 60 57 
+0 45 14 85 
+4 51 40 81 
+69 6 33 85 
+67 10 41 35 
+6 68 58 88 
+17 43 88 93 
+Addition of A and B:
+Error:Matrix addition- matrixes not of the same size
+Multiplication of A and B:
+Error:Matrix Multiplication-Number of rows and columns do not match
+Transpose of A
+55 66 8 
+76 0 77 
+18 64 55 
+Transpose of B:
+16 81 76 71 0 4 69 67 6 17 
+96 49 68 22 45 51 6 10 68 43 
+75 33 15 60 14 40 33 41 58 88 
+22 48 61 57 85 81 85 35 88 93 
+Matrix A is not symmetric
+Matrix B is not symmetric
+
+Set Number: 4
+Original Matrix A:
+0 0 0 0 1 1 1 1 0 0 
+0 1 0 1 1 1 0 0 1 0 
+0 0 1 0 1 1 1 0 0 1 
+1 0 0 0 1 1 1 0 1 1 
+1 1 0 1 0 1 0 0 1 1 
+1 1 1 0 1 0 1 1 1 1 
+Original Matrix B:
+0 0 0 0 0 1 0 1 1 1 
+0 0 0 0 1 0 0 1 0 1 
+0 1 1 1 0 0 0 1 1 1 
+1 0 1 1 0 0 0 0 1 1 
+1 0 0 1 0 1 1 0 1 0 
+0 1 1 1 1 1 1 1 1 1 
+0 0 1 1 1 1 1 1 0 1 
+0 1 1 0 1 1 0 0 0 1 
+0 0 0 0 1 1 1 0 0 0 
+Join of A and B:
+Error:ZeroOne Meet- matrixes not of the same size
+Meet of A and B:
+Error:ZeroOne Join- matrixes not of the same size
+Transpose of A
+0 0 0 1 1 1 
+0 1 0 0 1 1 
+0 0 1 0 0 1 
+0 1 0 0 1 0 
+1 1 1 1 0 1 
+1 1 1 1 1 0 
+1 0 1 1 0 1 
+1 0 0 0 0 1 
+0 1 0 1 1 1 
+0 0 1 1 1 1 
+Transpose of B:
+0 0 0 1 1 0 0 0 0 
+0 0 1 0 0 1 0 1 0 
+0 0 1 1 0 1 1 1 0 
+0 0 1 1 1 1 1 0 0 
+0 1 0 0 0 1 1 1 1 
+1 0 0 0 1 1 1 1 1 
+0 0 0 0 1 1 1 0 1 
+1 1 1 0 0 1 1 0 0 
+1 0 1 1 1 1 0 0 0 
+1 1 1 1 0 1 1 1 0 
+Matrix A is not symmetric
+Matrix B is not symmetric
+
+Set Number: 5
+Original Matrix A:
+0 0 1 0 1 0 0 
+0 1 1 1 1 0 1 
+1 1 1 0 1 1 1 
+1 0 0 1 0 1 1 
+0 1 0 0 1 1 0 
+1 0 0 1 1 0 1 
+0 0 0 0 1 1 0 
+Original Matrix B:
+1 0 1 0 0 0 1 
+0 1 1 0 0 1 1 
+0 0 1 1 0 0 0 
+1 0 1 0 0 1 0 
+0 0 0 1 0 0 1 
+0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 
+Join of A and B:
+1 0 1 0 1 0 1 
+0 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+1 0 1 1 0 1 1 
+0 1 0 1 1 1 1 
+1 0 1 1 1 0 1 
+1 1 0 1 1 1 0 
+Meet of A and B:
+0 0 1 0 0 0 0 
+0 1 1 0 0 0 1 
+0 0 1 0 0 0 0 
+1 0 0 0 0 1 0 
+0 0 0 0 0 0 0 
+0 0 0 1 1 0 1 
+0 0 0 0 1 0 0 
+Transpose of A
+0 0 1 1 0 1 0 
+0 1 1 0 1 0 0 
+1 1 1 0 0 0 0 
+0 1 0 1 0 1 0 
+1 1 1 0 1 1 1 
+0 0 1 1 1 0 1 
+0 1 1 1 0 1 0 
+Transpose of B:
+1 0 0 1 0 0 1 
+0 1 0 0 0 0 1 
+1 1 1 1 0 1 0 
+0 0 1 0 1 1 1 
+0 0 0 0 0 1 1 
+0 1 0 1 0 0 0 
+1 1 0 0 1 1 0 
+Matrix A is not symmetric
+Matrix B is not symmetric
+
+Set Number: 6
+Original Matrix A:
+33 92 24 61 
+62 52 61 26 
+24 60 93 13 
+22 93 73 80 
+Original Matrix B:
+72 40 67 70 
+48 22 79 16 
+54 88 4 10 
+34 94 51 20 
+Addition of A and B:
+105 132 91 131 
+110 74 140 42 
+78 148 97 23 
+56 187 124 100 
+Multiplication of A and B:
+10162 11190 12686 5242 
+11138 11436 9832 6302 
+10072 11686 7383 3830 
+12710 16870 13193 5358 
+Transpose of A
+33 62 24 22 
+92 52 60 93 
+24 61 93 73 
+61 26 13 80 
+Transpose of B:
+72 48 54 34 
+40 22 88 94 
+67 79 4 51 
+70 16 10 20 
+Matrix A is not symmetric
+Matrix B is not symmetric
+
+Set Number: 7
+Original Matrix A:
+49 32 95 27 56 55 73 69 
+77 66 95 9 90 87 76 12 
+35 50 91 52 4 79 8 15 
+66 3 18 86 89 46 19 90 
+78 14 70 35 21 95 56 50 
+61 51 59 51 39 35 63 26 
+38 54 78 42 85 39 9 3 
+42 28 89 83 74 61 26 5 
+Original Matrix B:
+75 48 40 49 43 96 99 56 
+0 59 7 39 46 22 65 84 
+28 96 27 65 35 88 69 29 
+16 58 64 43 19 90 0 47 
+90 40 96 85 88 47 41 88 
+6 0 79 53 74 97 37 2 
+93 16 68 28 5 37 57 73 
+47 21 68 19 64 68 66 6 
+Addition of A and B:
+124 80 135 76 99 151 172 125 
+77 125 102 48 136 109 141 96 
+63 146 118 117 39 167 77 44 
+82 61 82 129 108 136 19 137 
+168 54 166 120 109 142 97 138 
+67 51 138 104 113 132 100 28 
+131 70 146 70 90 76 66 76 
+89 49 157 102 138 129 92 11 
+Multiplication of A and B:
+22169 19783 25854 22015 21196 31558 26532 20237 
+24833 22300 28180 27526 25349 34311 30501 26748 
+8288 16985 15724 16852 15176 26315 17527 12427 
+21113 15815 28241 20464 22331 31194 20345 18363 
+18388 16106 24077 19761 19471 32780 24330 15645 
+17844 17673 20215 18434 16004 26087 21626 20065 
+14568 18541 18749 20445 18249 23795 18293 19133 
+16649 20507 23622 22850 19262 30647 19222 19748 
+Transpose of A
+49 77 35 66 78 61 38 42 
+32 66 50 3 14 51 54 28 
+95 95 91 18 70 59 78 89 
+27 9 52 86 35 51 42 83 
+56 90 4 89 21 39 85 74 
+55 87 79 46 95 35 39 61 
+73 76 8 19 56 63 9 26 
+69 12 15 90 50 26 3 5 
+Transpose of B:
+75 0 28 16 90 6 93 47 
+48 59 96 58 40 0 16 21 
+40 7 27 64 96 79 68 68 
+49 39 65 43 85 53 28 19 
+43 46 35 19 88 74 5 64 
+96 22 88 90 47 97 37 68 
+99 65 69 0 41 37 57 66 
+56 84 29 47 88 2 73 6 
+Matrix A is not symmetric
+Matrix B is not symmetric
+
+Set Number: 8
+Original Matrix A:
+85 41 20 38 
+21 73 12 18 
+62 67 63 31 
+Original Matrix B:
+35 91 88 
+24 0 13 
+71 73 82 
+90 89 2 
+8 48 15 
+74 92 16 
+88 29 9 
+8 67 82 
+Addition of A and B:
+Error:Matrix addition- matrixes not of the same size
+Multiplication of A and B:
+Error:Matrix Multiplication-Number of rows and columns do not match
+Transpose of A
+85 21 62 
+41 73 67 
+20 12 63 
+38 18 31 
+Transpose of B:
+35 24 71 90 8 74 88 8 
+91 0 73 89 48 92 29 67 
+88 13 82 2 15 16 9 82 
+Matrix A is not symmetric
+Matrix B is not symmetric
+

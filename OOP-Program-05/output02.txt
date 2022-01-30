@@ -1,0 +1,49 @@
+Zachary Kingcade
+Program 05 OOP
+
+Shape is Oval.   	 Area is 226.080000.
+Shape is Square.	 Area is 36.000000.
+Shape is Square.	 Area is 49.000000.
+Shape is Rectangle.	 Area is 24.000000.
+Shape is Circle.	 Area is 28.260000.
+Shape is Circle.	 Area is 12.560000.
+Shape is Oval.   	 Area is 15.700000.
+Shape is Square.	 Area is 16.000000.
+Shape is Square.	 Area is 121.000000.
+Shape is Rectangle.	 Area is 132.000000.
+Shape is Rectangle.	 Area is 92.000000.
+Shape is Oval.   	 Area is 62.800000.
+Shape is Square.	 Area is 9.000000.
+Shape is Square.	 Area is 16.000000.
+Shape is Rectangle.	 Area is 30.000000.
+Shape is Circle.	 Area is 113.040000.
+Shape is Circle.	 Area is 78.500000.
+Shape is Oval.   	 Area is 257.480000.
+Shape is Square.	 Area is 4.000000.
+Shape is Square.	 Area is 1600.000000.
+Shape is Rectangle.	 Area is 25.000000.
+Shape is Rectangle.	 Area is 36.000000.
+Shape is Oval.   	 Area is 62.800000.
+Shape is Square.	 Area is 25.000000.
+Shape is Square.	 Area is 36.000000.
+Shape is Rectangle.	 Area is 21.000000.
+Shape is Circle.	 Area is 78.500000.
+Shape is Circle.	 Area is 50.240000.
+Shape is Oval.   	 Area is 9.420000.
+Shape is Square.	 Area is 16.000000.
+Shape is Square.	 Area is 3600.000000.
+Shape is Rectangle.	 Area is 14.000000.
+Shape is Rectangle.	 Area is 40.000000.
+Shape is Oval.   	 Area is 47.100000.
+Shape is Square.	 Area is 16.000000.
+Shape is Square.	 Area is 9.000000.
+Shape is Rectangle.	 Area is 12.000000.
+Shape is Circle.	 Area is 78.500000.
+Shape is Circle.	 Area is 113.040000.
+Shape is Oval.   	 Area is 21.980000.
+Shape is Square.	 Area is 16.000000.
+Shape is Square.	 Area is 225.000000.
+Shape is Rectangle.	 Area is 15.000000.
+Shape is Rectangle.	 Area is 54.000000.
+
+Total area of all shapes is 7545
